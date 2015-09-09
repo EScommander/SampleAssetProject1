@@ -1,0 +1,3 @@
+[submodule "Assets/Engine"]
+	path = Assets/Engine
+	url = https://github.com/EScommander/SampleEnginePlugin.git
